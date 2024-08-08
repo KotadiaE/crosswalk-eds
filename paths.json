@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/crosswalk-site/:/",
-    "/content/crosswalk-site/configuration:/.helix/config.json"
+    "/content/crosswalk-site/:/"
   ]
 }
