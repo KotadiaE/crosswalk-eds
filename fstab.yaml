@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p121603-e1341757.adobeaemcloud.com/bin/franklin.delivery/KotadiaE/crosswalk-eds/main"
+    url: "https://author-p121603-e1341757.adobeaemcloud.com/bin/franklin.delivery/KotadiaE/crosswalk-eds/maintest"
     type: "markup"
     suffix: ".html"
